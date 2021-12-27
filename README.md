@@ -1,7 +1,7 @@
 ## Hey people, i'm Mateus Kienzle 👋
 
 
-- 🌱 I’m currently learning node.js, React, PostgresSQL and some frameworks</div>
+- 🌱 I’m currently learning django, node.js, React, PostgresSQL and some frameworks</div>
 - ✨ I’m looking to collaborate with my proactivity, knowledge and fellowship
 - 🎈 I'm passionate about communication, technology and i love learning new knowledge. Challenges motivate me
 
