@@ -1,11 +1,3 @@
-## Hey people, i'm Mateus Kienzle 👋
-
-
-- 🌱 I’m currently working with Python and some libs that are used in dashboards and machine learning aplications, like Pandas, Plotly, NumPy and some others</div>
-- ✨ I’m looking to collaborate with my proactivity, knowledge and fellowship
-- 🎈 I'm passionate about communication, technology and i love learning new knowledge. Challenges motivate me
-
-
 <div align="left">
   <a href="https://github.com/mateuskienzle">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=mateuskienzle&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
